@@ -1,1 +1,3 @@
-All of the html pages can traverse between each other.
+All of the html pages can traverse between each other. 245 PM 11/10/25
+
+All pages are in various states of being done. 330 PM 11/10/25
